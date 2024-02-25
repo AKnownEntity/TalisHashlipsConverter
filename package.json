@@ -1,0 +1,17 @@
+{
+  "name": "talis-converter",
+  "version": "1.0.0",
+  "description": "Converts a Haslips image generation to a CSV file format expected by Talis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --ignore ./output/ index.js"
+  },
+  "dependencies": {
+    "fs-extra": "^11.1.1",
+    "nodemon": "^3.0.1"
+  },
+  "type": "module",
+  "author": "Entity",
+  "license": "ISC"
+}

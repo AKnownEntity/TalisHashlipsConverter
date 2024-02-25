@@ -1,5 +1,7 @@
 # Talis Converter
 
+Made by [Hobos](https://twitter.com/InjHobos) for the Injective NFT community.
+
 ## Goal of this repo
 
 This repository provides some code to help translate metadata from [Hashlips](https://github.com/HashLips) generated NFTs to the [Talis](https://injective.talis.art/) CSV format.
