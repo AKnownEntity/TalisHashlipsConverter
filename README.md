@@ -43,7 +43,7 @@ You can also set a premint number which will premint the first X NFTs in the lis
 
 ### Step 1 - Import files
 
-Import your Hashlips output files into the `/input` folder. You will need to import each image file & json.
+Import your Hashlips output files into the `/input` folder and remove the `.gitkeep` file. You will need to import each image file & json.
 These files should be named only using numbers in incremental order.
 
 ### Step 2 - Update variables
